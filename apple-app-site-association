@@ -1,0 +1,14 @@
+{
+    "webcredentials": {
+        "apps": ["ZC2SH479VM.com.quan.livestream"]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "ZC2SH479VM.com.quan.livestream",
+            "paths": [
+                "*"
+            ]
+        }]
+    }
+}

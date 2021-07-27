@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "759658423541",
+    "firebase_url": "https://live-stream-61226.firebaseio.com",
+    "project_id": "live-stream-61226",
+    "storage_bucket": "live-stream-61226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759658423541:android:0cf3dcd30b28eafae591bc",
+        "android_client_info": {
+          "package_name": "com.quannv.livestream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759658423541-fr876r4ids03eepc2bepjqhr3pd821sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quannv.livestream",
+            "certificate_hash": "8bb75e59d0f5cddafe843be5e768dd14141211b7"
+          }
+        },
+        {
+          "client_id": "759658423541-rrfg910rptjnk9m7jkfge5rpfn1th44k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quannv.livestream",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "759658423541-81121dub361gmkhhcb7pqk00prqeh5nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2hVN2r_eBn6HuTV4vj3-IrNvBWRlvCEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759658423541-81121dub361gmkhhcb7pqk00prqeh5nn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "759658423541-a56roagej3qgnt5sn1pnmen2i83h6a05.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.quannv.livestream"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

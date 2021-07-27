@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>759658423541-bukaijj6obuounisjqo42dca3cst96fu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.759658423541-bukaijj6obuounisjqo42dca3cst96fu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>759658423541-fr876r4ids03eepc2bepjqhr3pd821sk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWQ304fLZ_KrmcMoJ1DUsKkpdbDS6GkhE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>759658423541</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.quan.livestream</string>
+	<key>PROJECT_ID</key>
+	<string>live-stream-61226</string>
+	<key>STORAGE_BUCKET</key>
+	<string>live-stream-61226.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:759658423541:ios:8034107c018b3e09e591bc</string>
+	<key>DATABASE_URL</key>
+	<string>https://live-stream-61226.firebaseio.com</string>
+</dict>
+</plist>

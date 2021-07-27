@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nguyễn Trang Shop</string>
+    <string name="facebook_app_id">266159038129631</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">iiPOu5-C8eWdEZDfSWR2mg4falecBICXpps1G</string>
+</resources>
